@@ -3,7 +3,7 @@
 
 **Organization: [mlpack](https://github.com/mlpack)**
 
-**Project: [Reinforcement Learning: Implementation of DDPG, and TD3](https://summerofcode.withgoogle.com/programs/2023/projects/mun1rpuI)**
+**Project: [Expanding Reinforcement Learning in mlpack: DDPG and TD3 Agents Integration](https://summerofcode.withgoogle.com/programs/2023/projects/mun1rpuI)**
 
 **Mentors: [Marcus Edel](https://github.com/zoq) and [Shubham Agrawal](https://github.com/shubham1206agra)**
 

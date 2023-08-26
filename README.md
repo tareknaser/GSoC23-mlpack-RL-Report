@@ -8,7 +8,7 @@
 **Mentors: [Marcus Edel](https://github.com/zoq) and [Shubham Agrawal](https://github.com/shubham1206agra)**
 
 
-Here are the outcomes achieved by the agents I developed during this summer, effectively addressing various classical reinforcement learning environments.
+Here are the outcomes achieved by the agents I developed this summer, effectively addressing various classical reinforcement learning environments.
 ![MountainCar DDPG](src/mountain_car_ddpg.gif) | ![Pendulum TD3](src/pendulum_td3.gif)
 :-------------------------:|:-------------------------:
 MountainCar with DDPG            |  Pendulum with TD3
@@ -31,7 +31,7 @@ The project's main objectives were to enhance mlpack's reinforcement learning ab
 
 
 ## Challenges
-During the project, several challenges were encountered and overcome to successfully implement and integrate the agents into mlpack:
+During the project, several challenges were encountered and overcome to implement and integrate the agents into mlpack successfully:
 
 - **Understanding Complex Concepts:** A significant challenge was comprehending the concepts presented in the original research papers of the agents. Addressing this required multiple readings and referencing other Python implementations to gain a clear understanding.
 - **Debugging Complexity:** Debugging reinforcement learning agents proved to be difficult due to the complexity of the algorithms. Identifying the exact source of errors was challenging, and feedback from test cases often only indicated that an agent had failed, without specifying the underlying issue.
@@ -104,7 +104,7 @@ Looking ahead, there are a few areas that could further enhance the project:
 - **Training on MoJoCo Control Environments**
 - **Abstraction of Agents:** Abstracting the agents to allow for object construction without the need to specify every parameter would improve usability and make the integration of new agents more straightforward.
 ## Acknowledgments
-I extend my gratitude to my mentors, [Marcus Edel](https://github.com/zoq) and [Shubham Agrawal](https://github.com/shubham1206agra), for their valuable guidance and support throughout this project. Their insights and assistance have been vital in navigating the challenges and achieving the project's objectives. 
+I extend my gratitude to my mentors, [Marcus Edel](https://github.com/zoq), and [Shubham Agrawal](https://github.com/shubham1206agra), for their valuable guidance and support throughout this project. Their insights and assistance have been vital in navigating the challenges and achieving the project's objectives. 
 
 Additionally, I would like to express my appreciation to Google for providing the opportunity to contribute to open-source software through the Google Summer of Code program.
 

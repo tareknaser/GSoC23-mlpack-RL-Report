@@ -9,9 +9,9 @@
 
 
 Here are the outcomes achieved by the agents I developed this summer, effectively addressing various classical reinforcement learning environments.
-![MountainCar DDPG](src/mountain_car_ddpg.gif) | ![Pendulum TD3](src/pendulum_td3.gif)
-:-------------------------:|:-------------------------:
-MountainCar with DDPG            |  Pendulum with TD3
+| ![MountainCar DDPG](src/mountain_car_ddpg.gif) | ![Pendulum TD3](src/pendulum_td3.gif) | ![HalfCheetah TD3](src/half_cheetah_trimmed.gif) |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| MountainCar with DDPG | Pendulum with TD3 | HalfCheetah with TD3 |
 
 ## Introduction and Motivation
 Reinforcement learning stands at the core of artificial intelligence, enabling machines to learn actions through interaction with their environments. This methodology has far-reaching applications, ranging from robotics to finance, offering solutions for complex real-world problems.
@@ -47,8 +47,8 @@ Here is an overview of the pull requests (PRs) I submitted and their current sta
 |Reinforcement Learning: Ornstein-Uhlenbeck noise [#3499](https://github.com/mlpack/mlpack/pull/3499)|:purple_square: Merged|
 |Reinforcement Learning: Twin Delayed Deep Deterministic Policy Gradient [#3512](https://github.com/mlpack/mlpack/pull/3512)|:purple_square: Merged|
 |Reinforcement Learning: Gaussian noise [#3515](https://github.com/mlpack/mlpack/pull/3515)|:purple_square: Merged|
-|Reinforcement Learning: Introducing Agent-Specific Tutorials [#3520](https://github.com/mlpack/mlpack/pull/3520)|:green_square: Open|
-|Reinforcement Learning: Examples for DDPG and TD3 with Gymnasium Environments [#214](https://github.com/mlpack/examples/pull/214)|:green_square: Open|
+|Reinforcement Learning: Introducing Agent-Specific Tutorials [#3520](https://github.com/mlpack/mlpack/pull/3520)|:purple_square: Merged|
+|Reinforcement Learning: Examples for DDPG and TD3 with Gymnasium Environments [#214](https://github.com/mlpack/examples/pull/214)|:purple_square: Merged|
 
 Here is a code snippet that demonstrates the utilization of DDPG with Ornstein-Uhlenbeck noise.
 ```cpp

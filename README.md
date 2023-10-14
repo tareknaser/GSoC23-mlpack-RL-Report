@@ -49,6 +49,7 @@ Here is an overview of the pull requests (PRs) I submitted and their current sta
 |Reinforcement Learning: Gaussian noise [#3515](https://github.com/mlpack/mlpack/pull/3515)|:purple_square: Merged|
 |Reinforcement Learning: Introducing Agent-Specific Tutorials [#3520](https://github.com/mlpack/mlpack/pull/3520)|:purple_square: Merged|
 |Reinforcement Learning: Examples for DDPG and TD3 with Gymnasium Environments [#214](https://github.com/mlpack/examples/pull/214)|:purple_square: Merged|
+|Reinforcement Learning: TD3 with HalfCheetah-v3 Gymnasium Environment [#216](https://github.com/mlpack/examples/pull/216)|:green_square: Open|
 
 Here is a code snippet that demonstrates the utilization of DDPG with Ornstein-Uhlenbeck noise.
 ```cpp

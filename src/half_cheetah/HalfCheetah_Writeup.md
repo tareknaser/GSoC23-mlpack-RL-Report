@@ -1,8 +1,8 @@
 # `HalfCheetah-v4` Environment with `mlpack` TD3
 
-<div style="text-align:center">
-  <img src="../half_cheetah_trimmed.gif" alt="HalfCheetah TD3">
-</div>
+<p align="center">
+  <img src="../half_cheetah_trimmed.gif" alt="Cheetah" />
+</p>
 
 In this project, we trained a reinforcement learning agent to solve the [`HalfCheetah-v4`](https://gymnasium.farama.org/environments/mujoco/half_cheetah/) environment using mlpack's Twin Delayed Deep Deterministic Policy Gradient (TD3) implementation. The goal was to train the agent to perform efficiently in a complex control task.
 
@@ -12,7 +12,7 @@ We used the OpenAI Gymnasium Toolkit's GUI interface for training and testing ou
 
 ## Video
 
-The full video output of the trained agent solving the environment can be found [here](half_cheetah.mp4)
+The full video output of the trained agent solving the environment can be found [here](half_cheetah.gif)
 
 ## Code
 
